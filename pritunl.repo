@@ -1,0 +1,5 @@
+[pritunl]
+name=Pritunl Stable Repository
+baseurl=https://repo.pritunl.com/stable/yum/fedora/43/
+gpgcheck=1
+enabled=1

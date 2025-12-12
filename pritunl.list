@@ -1,1 +1,0 @@
-deb [ signed-by=/usr/share/keyrings/pritunl.gpg ] https://repo.pritunl.com/stable/apt trixie main
